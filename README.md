@@ -20,6 +20,6 @@ Introduce a condition to add inputs to notes, preventing the registration of "NO
 In summary, the bug-fixing process involved corrections to the Flask route, HTML form, and implementation of validation checks. Notable changes include accommodating both GET and POST requests, specifying the method as POST in the HTML form, and ensuring non-empty notes are appended to the list.
 
 Usage
-Clone the repository: git clone [https://github.com/yourusername/repo.git](https://github.com/abhirambussa/innomatics_bug_fixing)
+Clone the repository: git clone [https://github.com/abhirambussa/innomatics_bug_fixing]
 Navigate to the project directory: cd repo
 Run the application: python app.py
