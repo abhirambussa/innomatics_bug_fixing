@@ -21,5 +21,5 @@ In summary, the bug-fixing process involved corrections to the Flask route, HTML
 
 Usage
 Clone the repository: git clone [https://github.com/abhirambussa/innomatics_bug_fixing]
-Navigate to the project directory: cd repo
+Navigate to the project directory: cd note_taking_app
 Run the application: python app.py
